@@ -1,0 +1,33 @@
+/* Ruru — custom mdBook theme */
+
+:root {
+    --sidebar-width: 260px;
+}
+
+body {
+    font-size: 18px;
+}
+
+.content main {
+    max-width: 680px;
+    line-height: 1.8;
+}
+
+/* Slightly warmer background for light mode */
+.light, html {
+    --bg: #faf8f5;
+    --fg: #2c2c2c;
+}
+
+/* Scene break em-dash */
+.content hr {
+    border: none;
+    text-align: center;
+    margin: 2em 0;
+}
+
+.content hr::before {
+    content: "—";
+    color: #aaa;
+    font-size: 1.2rem;
+}
