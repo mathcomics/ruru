@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(curl -sL \"https://github.com/catppuccin/mdBook/releases/latest/download/catppuccin.css\" -o \"c:\\\\Users\\\\somdi\\\\OneDrive\\\\Documents\\\\Math Code\\\\ruru\\\\theme\\\\catppuccin.css\")",
+      "Bash(mv src/vol_1/chapter_01.md src/vol_1.md)",
+      "Bash(mv src/vol_2/chapter_01.md src/vol_2.md)",
+      "Bash(mv src/vol_3/chapter_01.md src/vol_3.md)",
+      "Bash(rmdir src/vol_1 src/vol_2 src/vol_3)",
+      "Bash(cmd /c \"rd /s /q \\\\\"c:\\\\Users\\\\somdi\\\\OneDrive\\\\Documents\\\\Math Code\\\\ruru\\\\src\\\\vol_1\\\\\" && rd /s /q \\\\\"c:\\\\Users\\\\somdi\\\\OneDrive\\\\Documents\\\\Math Code\\\\ruru\\\\src\\\\vol_2\\\\\" && rd /s /q \\\\\"c:\\\\Users\\\\somdi\\\\OneDrive\\\\Documents\\\\Math Code\\\\ruru\\\\src\\\\vol_3\\\\\"\")"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+[book]
+title = "Ruru"
+authors = ["qablet"]
+language = "en"
+src = "src"
+
+[output.html]
+site-url = "/ruru/"
+git-repository-url = "https://github.com/qablet/ruru"
+edit-url-template = "https://github.com/qablet/ruru/edit/main/{path}"
+additional-css = ["theme/catppuccin.css", "theme/custom.css"]
+default-theme = "latte"
+preferred-dark-theme = "macchiato"
