@@ -6,4 +6,4 @@ The first two chapters were written in 2016, during an online writing course wit
 
 ---
 
-*This book is a collaborative work. To contribute a chapter, see [CONTRIBUTING.md](https://github.com/qablet/ruru/blob/main/CONTRIBUTING.md).*
+*This book is a collaborative work. To contribute a chapter, see [CONTRIBUTING.md](https://github.com/mathcomics/ruru/blob/main/CONTRIBUTING.md).*
