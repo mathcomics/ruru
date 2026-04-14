@@ -66,7 +66,7 @@ Vena held it out like a trophy as he limped back hurriedly to catch up with his 
 Sula watched the scene from a distance. Sula had seen it first, the moment he had stepped on the shore, but his lack of curiosity had saved his life more than once, and he wasn't going to change that for a piece of slimy trinket. In the battle of the bridge, he had stayed back, when his band brothers, curious to see the giant who sleeps six months, had rushed ahead. The giant's menacing frame thundering above everything but the sky had sated their curiosity, and the giant's foot crushed their skulls moments later.
 
 
-Vena's trophy passed around many hands before Sula held it close to his eyes, and squinted at the stamp. He chuckled loudly and reached into his waistband to pull out a seal. The pattern on his seal matched the impression on the sealing wax on the flask.
+Vena's trophy passed around many hands before Sula held it close to his eyes, and squinted at the stamp. He chuckled loudly and reached into his waistband to pull out a seal — he had picked it from the rubble of the south tower, six days after the war had ended. The pattern on his seal matched the impression on the sealing wax on the flask.
 
 "Where did you find that seal?"
  

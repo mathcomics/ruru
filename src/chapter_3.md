@@ -91,6 +91,8 @@ The cat moved silently towards her. Its eyes were amber and very still. It licke
 
 "You and I," she said. The old woman's face fell away, and what remained was not old and had a radiance that had no source Ruth could name.
 
+—
+
 "I am the glory of war. You are the cost of war."
 
 She paused.
@@ -105,6 +107,7 @@ She paused.
 
 She looked at Ruth for a long time. Then she turned and walked away, the cat a step behind her, into the grey of the morning.
 
+—
 
 At dawn Ruru rose and walked out of the city. The river had taken back what the river always takes back, and the steps were quiet. She walked through the lanes above the river, past the old customs house, through the part of the city where nothing was burning anymore. She had walked out of a hundred cities that no longer existed. She had seen a hundred wars and paid her price for each of them.
 

@@ -19,24 +19,28 @@ Ruru tried to make sense of it. Questions swarmed her mind - What? When? How? Bu
 
 The goddess didn't answer. She rested her palm on the lion's neck. The lion's eyes were amber and very still. It licked her ankles.
 
-"Why me, it was not my war." 
+"Why me, it was not my war."
+
 "All wars are everyones."
+
 "I want to live. I need to live. I need to see… so much more."
 
 Durga looked at her intently for what looked like a very long time. The lion did not move. Ruru could swear the waves at the beach had stopped as well.
 
-"tathA-astu," she said.
+"*tathA-astu*," she said.
 "Let it be so. You shall live then, Ruru." 
 
 The lion lifted its head, as if startled by those words, and jumped to catch up. Durga had started walking away, but not stopped speaking.
 
 "You shall live longer than anyone you know. or anyone you will." She paused..
-" ...You shall live forever, Ruru. You will travel to many lands. You will see many, many more wars. Wars that will be waged for various causes. But no matter what the cause, wars must be paid for. You will survive every war. But every time... every time there is a war near you, it will claim the one you love most."
+
+
+> "...You shall live forever, Ruru. You will travel to many lands. You will see many, many more wars. Wars that will be waged for various causes. But no matter what the cause, wars must be paid for. You will survive every war. But every time... every time there is a war near you, it will claim the one you love most."
 
 
 ## Kurukshetra.
 
-It was a very different war than the one long ago — many lifetimes ago, she had stopped counting — when she was a little girl nearly as old as her son is now. This one was a war to end all wars. That is how the old mahout described it. Like there is such a thing. The war to end all wars was now over. Tonight there was relief written over all faces. Or maybe just drunken stupor. Wagons were being loaded. Tomorrow morning caravans would leave in all directions. During the war, Ruru had lingered close to the plains, waiting for the end. After the news came, she had arrived at the camp before sunlight had completely left the skies. She wanted to hear firsthand, before the caravans left, before the tales of this war were scattered across hundred kingdoms on dusty feet and creaky wheels.
+It was a very different war than the one long ago — many lifetimes ago, she had stopped counting — when she was a little girl nearly as old as her son was then. This one was a war to end all wars. That was how the old mahout had described it. Like there was such a thing. The war to end all wars was now over. Tonight there was relief written over all faces. Or maybe just drunken stupor. Wagons were being loaded. Tomorrow morning caravans would leave in all directions. During the war, Ruru had lingered close to the plains, waiting for the end. After the news came, she had arrived at the camp before sunlight had completely left the skies. She wanted to hear firsthand, before the caravans left, before the tales of this war were scattered across hundred kingdoms on dusty feet and creaky wheels.
 
 Ruru wrapped her son closer. He had Mihir's habit of tilting his head when he listened, as if the words might slide off otherwise. She listened silently as the old mahout spoke. He spoke of many things. He spoke of the first day of the war when he had arrived on his elephant, into a vast sea of men and animals, spears, and banners. He spoke of the last day when the few that were left of it tried to find a meaning of all this.
 
@@ -46,7 +50,7 @@ Like the sparks from the firewood burning before him, the mahout's words lingere
 
 "Girl, these old eyes have seen many wars, but my first day on foot ...God...I have seen the dust of battle, but down there I felt the dust prick my skin, I tasted it in my mouth. I have heard the sound of horse-hooves, but there I felt it, I felt it shaking the ground under my feet, and the waves rising up my spine. I never thought I would make it through one more day..." 
  
-But now the war is over. The mahout had survived. Now he gets to tell the tale of those who did not.
+But now the war was over. The mahout had survived. Now he got to tell the tale of those who did not.
 
 He told Ruru how Mihir had died.
 
@@ -77,6 +81,4 @@ The assailant did not see her. He went past.
 
 "Do you pity me? YOU... Do you think I am better alive? Do you know the curse of eternal life? You do not. I hope you did. I hope you will ..someday...beg to die …" 
 
-Ruru's words came out choked, indistinct, but it did not matter, the assailant did not stop to hear her wailing. He did not stop until the camp was quiet again. His name was Aswatthama. He had enough to pay for. The curse of eternal life, let that be one more.
-
-But we shall not follow him. It is not his story. We will stay with Ruru, watching her weeping, and still holding tightly to her bosom her payment for another war.
+The assailant did not stop. He did not stop until the camp was quiet again. His name was Aswatthama. He had enough to pay for. The curse of eternal life, let that be one more.
