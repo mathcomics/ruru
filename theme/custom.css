@@ -11,6 +11,7 @@ body {
 .content main {
     max-width: 680px;
     line-height: 1.8;
+    color: var(--fg);
 }
 
 /* Slightly warmer background for light mode */
@@ -30,6 +31,67 @@ body {
     content: "—";
     color: #aaa;
     font-size: 1.2rem;
+}
+
+/* Hide theme switcher — background is fixed per chapter */
+#theme-toggle, .theme-popup {
+    display: none !important;
+}
+
+/* Named page palettes — light */
+body.solarized-light {
+  --bg: #fdf6e3;
+  --fg: #657b83;
+  --sidebar-bg: #eee8d5;
+  --sidebar-fg: #657b83;
+  --sidebar-active: #268bd2;
+}
+
+body.gruvbox-light {
+  --bg: #fbf1c7;
+  --fg: #3c3836;
+  --sidebar-bg: #f2e5bc;
+  --sidebar-fg: #3c3836;
+  --sidebar-active: #076678;
+}
+
+body.nord-light {
+  --bg: #eceff4;
+  --fg: #2e3440;
+  --sidebar-bg: #e5e9f0;
+  --sidebar-fg: #2e3440;
+  --sidebar-active: #5e81ac;
+}
+
+/* Named page palettes — dark */
+body.solarized-dark {
+  --bg: #002b36;
+  --fg: #839496;
+  --sidebar-bg: #073642;
+  --sidebar-fg: #839496;
+  --sidebar-active: #2aa198;
+}
+
+body.gruvbox-dark {
+  --bg: #282828;
+  --fg: #ebdbb2;
+  --sidebar-bg: #1d2021;
+  --sidebar-fg: #ebdbb2;
+  --sidebar-active: #fabd2f;
+}
+
+body.nord-dark {
+  --bg: #2e3440;
+  --fg: #d8dee9;
+  --sidebar-bg: #242933;
+  --sidebar-fg: #d8dee9;
+  --sidebar-active: #88c0d0;
+}
+
+/* Sidebar active/current chapter link */
+.chapter li.active > a,
+.chapter li.active > a:hover {
+    color: var(--sidebar-active) !important;
 }
 
 /* Blockquote — bold serif, no box */

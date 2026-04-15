@@ -1,3 +1,5 @@
+<script>document.body.classList.add('nord-dark')</script>
+
 # Chapter 2. Resurrection
 
 ## Cost of War.
@@ -7,7 +9,9 @@ Ruru remembered that there was a fire in the great hall, a loud noise, a sharp p
 Now the pain is gone. The din of war is gone. Only the sound of the sea. Ruru opened her eyes and saw a radiant face with three eyes smiling at her. Durga. The goddess of war, who battled the demons riding her lion. She was robed in bright red, her demeanor brighter than her robe. The lion walked very slowly behind the goddess, and stopped to sniff at a piece of charred masonry near her feet.
 
 "Ruru, sweet child." Durga extended her arms.
+
 "I am .. am I .. hurt?"
+
 "You've died."
 
 Ruru tried to make sense of it. Questions swarmed her mind - What? When? How? But then she already knew the answers. She asked the one she did not know.
@@ -15,6 +19,7 @@ Ruru tried to make sense of it. Questions swarmed her mind - What? When? How? Bu
 "Why?" 
 
 "Because a war was waged. And the cost of war must be paid." 
+
 "Why me?
 
 The goddess didn't answer. She rested her palm on the lion's neck. The lion's eyes were amber and very still. It licked her ankles.

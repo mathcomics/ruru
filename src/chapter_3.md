@@ -1,3 +1,5 @@
+<script>document.body.classList.add('solarized-light')</script>
+
 # Chapter 3. Love
 
 
@@ -111,6 +113,6 @@ She looked at Ruth for a long time. Then she turned and walked away, the cat a s
 
 At dawn Ruru rose and walked out of the city. The river had taken back what the river always takes back, and the steps were quiet. She walked through the lanes above the river, past the old customs house, through the part of the city where nothing was burning anymore. She had walked out of a hundred cities that no longer existed. She had seen a hundred wars and paid her price for each of them.
 
-I have told you before, this story is not about war. This story is not about death. This story is about love. On that cool morning, Ruru looked forward and started walking.
+I have told you before, this story is not about death. This story is not about war. War is not the only thing that never stops. On that cool morning, Ruru looked back once, and started walking.
 
 To love again.

@@ -1,3 +1,5 @@
+<script>document.body.classList.add('nord-light')</script>
+
 # Chapter 1. Death
 
 
