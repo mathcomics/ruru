@@ -34,7 +34,10 @@ body {
 }
 
 /* Hide theme switcher — background is fixed per chapter */
-#theme-toggle, .theme-popup {
+#theme-toggle,
+#mdbook-theme-toggle,
+.theme-popup,
+#mdbook-theme-list {
     display: none !important;
 }
 
