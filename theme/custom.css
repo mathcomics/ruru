@@ -14,12 +14,6 @@ body {
     color: var(--fg);
 }
 
-/* Slightly warmer background for light mode */
-.light, html {
-    --bg: #faf8f5;
-    --fg: #2c2c2c;
-}
-
 /* Scene break em-dash */
 .content hr {
     border: none;

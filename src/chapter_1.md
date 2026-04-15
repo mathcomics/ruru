@@ -3,6 +3,10 @@
 # Chapter 1. Death
 
 
+![ruru_shore](assets/p3.svg)
+
+
+
 ## The Flask
 
 The sealed flask drifted away from the shore. If the flask had eyes of its own it would have seen Ruru's large eyes following it from the beach. When it could not see her face any more, it would have seen her right hand shading her face and known that she was still trying to spot the flask floating away in the choppy waves. When it could not see her form any more it would have seen a speck of red in the backdrop of the stone walls of the fort of Lanka, and known that she was still standing there in her red checkered skirt. By dusk, when the torches at the guardhouses were lit, hundred paces apart, the southern wall of Lanka looked like a thin black jewel slowly sinking into the sea. By next morning the walls and towers were not visible any more. The three peaks of the Trikuta mountain were the only visible markers of where the flask had started its journey.
