@@ -1,4 +1,4 @@
-<script>document.body.classList.add('solarized-light')</script>
+<script>document.body.classList.add('nord-dark')</script>
 
 # Chapter 3. Love
 

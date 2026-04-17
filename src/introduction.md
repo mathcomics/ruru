@@ -1,8 +1,6 @@
-<script>document.body.classList.add('nord-dark')</script>
+<script>document.body.classList.add('nord-light')</script>
 
 # Introduction
-
-![ruru_shore](assets/p2.svg)
 
 
 *Ruru* is a story about — well, you have to read it to find out.

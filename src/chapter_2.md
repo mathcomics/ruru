@@ -1,4 +1,4 @@
-<script>document.body.classList.add('nord-dark')</script>
+<script>document.body.classList.add('nord-light')</script>
 
 # Chapter 2. Resurrection
 

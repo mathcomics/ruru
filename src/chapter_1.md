@@ -1,10 +1,9 @@
-<script>document.body.classList.add('nord-light')</script>
+<script>document.body.classList.add('nord-dark')</script>
 
 # Chapter 1. Death
 
 
-![ruru_shore](assets/p3.svg)
-
+![ruru_shore](assets/p2.svg)
 
 
 ## The Flask
@@ -14,6 +13,9 @@ The sealed flask drifted away from the shore. If the flask had eyes of its own i
 ## The Message
 
 The message in the flask read - "My name is Ruru. I am nine. I live in a stone tower. The south gate of the city is across the yard from the tower. My father is the commander of the south gate. The city square used to be a short walk from here, cutting across Ashoka garden. But they closed the garden path when they brought the woman. Now we have to go all the way around the ramparts. There are a lot of guards in the garden now..."
+
+![ruru_shore](assets/p3.svg)
+
 
 ## The Flask
 
