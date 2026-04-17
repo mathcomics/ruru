@@ -5,15 +5,15 @@
 
 ## Ruth
 
-The house had a verandah that faced the garden, and in the cool of the early morning, before the heat arrived, Ruth would sit there with a book. More often than not, by the time she had read three pages, Rani would appear at the corner of the garden path with something in her hands — a cup, a cloth, an excuse — and they would talk until the heat drove them inside. Ruth's mother had tried more than once to explain the correct distance to be maintained with the servants. Ruth's father had given up trying.
+The house had a verandah that faced the garden, and in the cool of the early morning, before the heat arrived, Ruth would sit there with a book. More often than not, by the time she had read three pages, Rani would appear at the corner of the garden path with something in her hands — a cup, a cloth, an excuse — and they would talk until the heat drove them inside. Ruth's aunt had tried more than once to explain the correct distance to be maintained with the servants, and eventually given up trying.
 
-Since they had moved to Kanpur, they had lived twenty yards apart — Ruth in the bungalow, Rani in the quarters on the other side of the low wall — and the city had quietly become the only one either of them had. Rani spoke better English than most of the clerks at the collector's office, because she had learned it the way Ruth had learned to cook, which is to say badly and enthusiastically and over many years of mutual instruction.
+In Kanpur, they had lived twenty yards apart — Ruth in the bungalow, Rani in the quarters on the other side of the low wall. Rani spoke better English than most of the clerks at the collector's office, because she had learned it the way Ruth had learned to cook, which is to say badly and enthusiastically and over many years of mutual instruction.
 
 ## Rani
 
 When the news came it came in pieces, the way all bad news comes, each piece seeming to be the last, each piece followed by another. First the sepoys at Meerut. Then the regiments here. Then the magazine blown up in the night, the sound of it rolling across the city like thunder that would not stop.
 
-Rani's aunt, who had no authority over anyone, told her not to go. Rani went anyway. She did not ask herself why. She went because she had seen the way Ruth's face went carefully blank when she was frightened. She did not want Ruth's face to do that with no one there who would notice.
+Rani's aunt, who had no authority over anyone, told her not to go to the entrenchment. Rani went anyway. She did not ask herself why. She went because she had seen the way Ruth's face went carefully blank when she was frightened. She did not want Ruth's face to do that with no one there who would notice.
 
 The entrenchment by the time she arrived was already full — British families crowded into the barracks building that offered almost no shade. She found Ruth near the east wall, sitting on the ground with her back against the mud bricks, her blue dress already the colour of the dust. Ruth looked up when Rani arrived and said nothing for a moment. Then she moved aside to make room.
 
@@ -44,21 +44,13 @@ A soldier was coming down the steps through the crowd, moving against the curren
 
 ## Rani
 
-She had hold of Ruth's arm when the first shot was fired. The crowd reversed. The boats were burning. She did not let go.
-
-They ran with the crowd back up the ghat steps. At the top, where the steps met the road, a surge drove between them. Rani felt Ruth's arm slip from her hand.
-
-She turned. Ruth was not there.
-
-For a moment she stood in the press of strangers and felt the particular cold of a fear she had been keeping at arm's length for three weeks. She turned back. She called Ruth's name. Her voice went into the noise and did not come back.
+She had hold of Ruth's arm when the first shot was fired. When she first realized Rani's hand was not there, she felt the particular cold of a fear she had been keeping at arm's length for three weeks. A fate she had aniticipated but not accepted. She turned back. She called Ruth's name. Her voice went into the noise and did not come back.
 
 She pushed back against the crowd, back towards the river, back down the ghat steps — moving against everyone, not choosing to be quick, the way she had gone to the entrenchment without deciding to go, the way she had refused to leave without deciding to refuse. She did not think. She moved.
 
 She saw Ruth before she saw the soldier. Ruth was pressed against the wall at the base of the steps, hemmed in by the crowd above her, not moving. The soldier was four steps above her, coming down with a sword at his side, unhurried.
 
-Rani took the steps fast. She came between them. She felt Ruth's hands seize her shoulders from behind — Ruth had turned and seen — and she heard Ruth say her name the way people say a name when it is too late.
-
-The blade caught her below the right ribs. She felt it as a pressure first, then as heat. The soldier moved past them without stopping, on down the steps, already looking for the next thing.
+Rani took the steps fast. She came between them. The blade caught her below the right ribs. She felt it as a pressure first, then as heat. The soldier moved past them without stopping, on down the steps, already looking for the next thing.
 
 Rani sat down on the steps. Ruth was beside her, Ruth's voice saying her name in the particular way of a person trying to call someone back from somewhere they are already going.
 
@@ -72,9 +64,7 @@ That was all there was time for.
 
 ## Ruth
 
-Ruth held her for a long time on the steps, after she had gone still.
-
-When Ruth finally raised her head, the old woman was standing at the bottom of the steps. She had the cat at her feet.
+After Rani had gone still, Ruth held her for a long time on the steps. When she finally raised her head, the old woman was standing at the bottom of the steps. She had the cat at her feet.
 
 Ruth looked at her.
 
@@ -113,6 +103,6 @@ She looked at Ruth for a long time. Then she turned and walked away, the cat a s
 
 At dawn Ruru rose and walked out of the city. The river had taken back what the river always takes back, and the steps were quiet. She walked through the lanes above the river, past the old customs house, through the part of the city where nothing was burning anymore. She had walked out of a hundred cities that no longer existed. She had seen a hundred wars and paid her price for each of them.
 
-I have told you before, this story is not about death. This story is not about war. War is not the only thing that never stops. On that cool morning, Ruru looked back once, and started walking.
+I have told you before, this story is not about death. This story is not about war. War is not the only thing that will never stop. On that cool morning, Ruru looked back once, and started walking.
 
 To love again.
