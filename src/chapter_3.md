@@ -2,6 +2,8 @@
 
 # Chapter 3. Love
 
+*by Somdip Datta, with help from Claude*
+
 
 ## Ruth
 

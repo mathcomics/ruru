@@ -2,8 +2,10 @@
 
 # Chapter 1. Death
 
+*by Somdip Datta*
 
-![ruru_shore](assets/p2.svg)
+
+![ruru_shore](assets/p2.png)
 
 
 ## The Flask

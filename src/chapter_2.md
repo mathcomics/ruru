@@ -2,6 +2,8 @@
 
 # Chapter 2. Resurrection
 
+*by Somdip Datta*
+
 ## Cost of War.
 
 Ruru remembered that there was a fire in the great hall, a loud noise, a sharp pain, and everything had gone dark.
